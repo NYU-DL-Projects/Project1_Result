@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Execution Intro of this Repo
+## 1. Execution Introduction of this Repository
 
 ### 1.1 Repository Organization and File Functionalities
 
